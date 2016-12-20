@@ -1,2 +1,4 @@
 # eWallet
-An open eWallet 
+An open and simple eWallet API.
+
+https://
