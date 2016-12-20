@@ -1,0 +1,22 @@
+Tables
+  Customer
+  Account
+  TransactionReference
+  
+Table Structure
+  Customer:
+    -id
+    -name
+    -details
+    
+   Account:
+    -id
+    -customer_id
+    -currency
+    -balace
+    -interest
+    
+    
+    
+  
+  
