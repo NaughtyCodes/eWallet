@@ -1,20 +1,39 @@
 Tables
   Customer
+  CustomerGroup
   Account
   TransactionReference
   
 Table Structure
+
   Customer:
     -id
+    -group_id
     -name
     -details
+    
+  CustomerGroup:
+    -id
+    -group_name
     
    Account:
     -id
     -customer_id
     -currency
-    -balace
+    -amount
     -interest
+    -outstanding
+    -updated_on
+    
+   TransactionReference:
+    -id
+    -credit_account_id
+    -debit_account_id
+    -amount
+    -txn_note
+    -timestamp
+    
+    
     
     
     
