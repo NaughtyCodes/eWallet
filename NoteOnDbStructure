@@ -1,22 +1,22 @@
 Tables
-  Customer
-  CustomerGroup
-  Account
-  TransactionReference
+  customer
+  customer_group
+  account
+  transaction_reference
   
 Table Structure
 
-  Customer:
+  customer:
     -id
     -group_id
     -name
     -details
     
-  CustomerGroup:
+  customer_group:
     -id
     -group_name
     
-   Account:
+   account:
     -id
     -customer_id
     -currency
@@ -25,7 +25,7 @@ Table Structure
     -outstanding
     -updated_on
     
-   TransactionReference:
+   transaction_reference:
     -id
     -credit_account_id
     -debit_account_id
