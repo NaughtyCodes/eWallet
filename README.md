@@ -20,4 +20,5 @@ https://EW/FundsTransfer/ExternalAccount/{debitAccId}/{amount}/{creditAccId}
 #####
 http://stackoverflow.com/questions/20414548/spring-3-javaconfig-problems-injecting-datasource
 http://viralpatel.net/blogs/spring-4-mvc-tutorial-maven-example/
+http://stackoverflow.com/questions/28893796/returning-a-simple-map-structure-from-spring-mvc-controller-to-ajax
 
