@@ -58,5 +58,5 @@ public class HelloSpring4Controller {
 	        return myMap;
 	    }
 }
-
+http://www.codejava.net/frameworks/spring/spring-mvc-with-jdbctemplate-example
 
