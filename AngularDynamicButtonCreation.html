@@ -1,0 +1,42 @@
+<!--
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <title>Bootstrap Example</title>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+      <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+      <style>
+         button{
+         float:right;
+         margin:5px;
+         width:10%;
+         word-wrap:break-word;
+         white-space:normal !important;
+         }
+         .local{
+         padding:2%;
+         border: 3px solid #73AD21;
+         }
+      </style>
+   </head>
+   <body>
+      <div  class="container local" ng-app="myApp" ng-controller="customersCtrl">
+         <div style="border-bottom: 1px solid; width:98%; margin-bottom:2%" class="container text-center">
+            <h2><span class="label label-primary">some heading</span></h2>
+         </div>
+         <button type="button" class="btn btn-primary" ng-repeat="x in records" style="background-color:{{x.color}}" >{{x.name}}</button>   
+      </div>
+   </body>
+   <script>
+      var app = angular.module('myApp', []);
+      app.controller('customersCtrl', function($scope) {
+          var names = [{"name":"Saab","status":"x","color":"red"},{"name":"varr","status":"z","color":""},{"name":"babb","status":"y","color":"green"}];
+          $scope.records = names;
+      });
+   </script>
+</html>
+!-->
