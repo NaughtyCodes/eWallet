@@ -15,3 +15,9 @@ https://EW/FundsTransfer/InternalAccount/{debitAccId}/{amount}/{creditAccId}
 
 Funds Transfer External betweeen one account to another account
 https://EW/FundsTransfer/ExternalAccount/{debitAccId}/{amount}/{creditAccId}
+
+
+#####
+http://stackoverflow.com/questions/20414548/spring-3-javaconfig-problems-injecting-datasource
+http://viralpatel.net/blogs/spring-4-mvc-tutorial-maven-example/
+
