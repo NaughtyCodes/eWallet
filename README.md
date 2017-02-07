@@ -24,6 +24,8 @@ http://stackoverflow.com/questions/28893796/returning-a-simple-map-structure-fro
 
 https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwi_5tm5-_zRAhWJuI8KHbGwCPoQFggdMAA&url=http%3A%2F%2Fwww.dineshonjava.com%2F&usg=AFQjCNG28SG00xziLso6fdOX_EcadkEUHA
 
+http://o7planning.org/en/10129/spring-mvc-tutorial-for-beginners
+
 @RestController
 public class HelloSpring4Controller {
 	
