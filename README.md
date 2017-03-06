@@ -60,3 +60,6 @@ public class HelloSpring4Controller {
 }
 http://www.codejava.net/frameworks/spring/spring-mvc-with-jdbctemplate-example
 
+example for call table value on select example
+http://plnkr.co/edit/VdmvcOptoP5LC5VSyY9L?p=preview
+
