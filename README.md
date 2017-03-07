@@ -63,3 +63,7 @@ http://www.codejava.net/frameworks/spring/spring-mvc-with-jdbctemplate-example
 example for call table value on select example
 http://plnkr.co/edit/VdmvcOptoP5LC5VSyY9L?p=preview
 
+http://stackoverflow.com/questions/27730826/ui-grid-save-updated-cell-data-to-database
+
+pagination example
+http://plnkr.co/edit/UttxPkXG8fYQDX85fnyZ?p=preview
