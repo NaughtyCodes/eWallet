@@ -67,3 +67,5 @@ http://stackoverflow.com/questions/27730826/ui-grid-save-updated-cell-data-to-da
 
 pagination example
 http://plnkr.co/edit/UttxPkXG8fYQDX85fnyZ?p=preview
+
+http://www.proxygear.com/technic/2014/07/30/really_simple_angularjs_file_upload.html
