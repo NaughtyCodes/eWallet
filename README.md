@@ -69,3 +69,8 @@ pagination example
 http://plnkr.co/edit/UttxPkXG8fYQDX85fnyZ?p=preview
 
 http://www.proxygear.com/technic/2014/07/30/really_simple_angularjs_file_upload.html
+
+create self signed private and public key for auth. between client and server.
+https://www.youtube.com/watch?v=1xtBkukWiek
+
+
