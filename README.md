@@ -73,4 +73,5 @@ http://www.proxygear.com/technic/2014/07/30/really_simple_angularjs_file_upload.
 create self signed private and public key for auth. between client and server.
 https://www.youtube.com/watch?v=1xtBkukWiek
 
-
+http://coolpythoncodes.com/first-data-science-job/
+https://medium.com/@GalarnykMichael
